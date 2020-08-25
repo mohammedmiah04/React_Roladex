@@ -11,6 +11,7 @@
     backface-visibility: hidden;
     transform: translate;
     transition: 0.25s ease-out;
+   
 }
 
 .card-container:hover {
